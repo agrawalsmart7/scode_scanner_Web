@@ -15,6 +15,7 @@ baseurl:          http://scodescanner.info/
 author:
   name:           'Utkarsh Agrawal'
   url:            https://twitter.com/agrawalsmart7
+  email:          agrawalsmart7@gmail.com
 
 paginate:         5
 
