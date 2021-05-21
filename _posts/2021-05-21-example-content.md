@@ -3,7 +3,6 @@ layout: post
 title: Example content
 ---
 
-<video width="320" height="240" controls>
+<video controls="true" width="320" height="240" >
   <source src="../../../media/scodescanner.mp4" type="video/mp4">
-  <source src="../../../media/scodescanner.ogg" type="video/ogg">
 </video>
