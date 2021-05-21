@@ -9,7 +9,8 @@ title: About
 
 <p>
 The main features for this tool are:-
-
+<p>
+ 
 1) Scans the whole folder which contains multiple PHP files.<br>
 2) It will not only notify you at which file but also which line the vulnerable code exists for quickly identified it.<br>
 3) It runs on your localhost, where you will have to give the folder name for scans.<br>
