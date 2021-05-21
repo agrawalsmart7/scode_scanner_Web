@@ -6,20 +6,20 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            SCodeScanner
+tagline:          'A python based Tool'
+description:      'Finding Vulnerability with SCodeScanner. Made by <a href="https://twitter.com/agrawalsmart7" target="_blank">@agrawalsmart7</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Utkarsh Agrawal'
+  url:            https://twitter.com/agrawalsmart7
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/agrawalsmart7/scodescanner
