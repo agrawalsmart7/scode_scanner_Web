@@ -2,7 +2,6 @@
 layout: post
 title: Example content
 ---
-
-<video controls="true" width="320" height="240" >
-  <source src="../../../media/scodescanner.mp4" type="video/mp4">
-</video>
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1w9nvDbqiThtCz6e95X8xjmTbq0tccMN0/view?usp=sharing" frameborder="0" allowfullscreen="true"> 
+ </iframe>
