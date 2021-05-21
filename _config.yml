@@ -9,7 +9,7 @@ permalink:        pretty
 title:            SCodeScanner
 tagline:          'A python based Tool'
 description:      'Finding Vulnerability with SCodeScanner. Made by <a href="https://twitter.com/agrawalsmart7" target="_blank">@agrawalsmart7</a>.'
-url:              http://hyde.getpoole.com
+url:              http://scodescanner.info
 baseurl:          /
 
 author:
