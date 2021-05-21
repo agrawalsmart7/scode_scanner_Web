@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<p>
   The SCodeScanner stands for Source Code Scanner, where you can scan your source code files like PHP and get identify the vulnerabilities inside it. The tool can use by Pentester, Developer to quickly identify the weakness.
 </p>
 
@@ -20,15 +20,13 @@ The main features for this tool are:-
 
 ## Setup
 
-PHP, Python3
-
-If you don't have any of these please download, then,
+ Please install PHP, Python3 if you don't have.
 
 1) ```php -S localhost:80```<br>
 2) Browse to localhost<br>
 3) Type the foldername which contains the PHP files
 
-**Note: Please try not to change the main file name 'scscanner.py', otherwise we will have to change the name in upload.php file.**
+*Note: Please try not to change the main file name 'scscanner.py', otherwise we will have to change the name in upload.php file.*
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/agrawalsmart7/scodescanner/issues/new) or [ask me on Twitter](https://twitter.com/agrawalsmart7).
 
