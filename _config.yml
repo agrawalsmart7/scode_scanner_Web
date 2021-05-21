@@ -16,7 +16,7 @@ author:
   name:           'Utkarsh Agrawal'
   url:            https://twitter.com/agrawalsmart7
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          1.0
