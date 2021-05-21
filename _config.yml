@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            SCodeScanner
 tagline:          'A python based Tool'
-description:      'Finding Vulnerability with SCodeScanner. Made by <a href="https://twitter.com/agrawalsmart7" target="_blank">@agrawalsmart7</a>.'
+description:      'Finding Vulnerability with SCodeScanner. <br>Made by <a href="https://twitter.com/agrawalsmart7" target="_blank">@agrawalsmart7</a>.'
 url:              http://scodescanner.info
 baseurl:          http://scodescanner.info/
 
