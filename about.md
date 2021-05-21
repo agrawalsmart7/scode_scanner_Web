@@ -4,27 +4,31 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  The SCodeScanner stands for Source Code Scanner, where you can scan your source code files like PHP and get identify the vulnerabilities inside it. The tool can use by Pentester, Developer to quickly identify the weakness.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p>
+The main features for this tool are:-
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+1) Scans the whole folder which contains multiple PHP files.<br>
+2) It will not only notify you at which file but also which line the vulnerable code exists for quickly identified it.<br>
+3) It runs on your localhost, where you will have to give the folder name for scans.<br>
+4) Give results out for each file inside the anchors tag (So you can move on to it.)<br>
+5) You can add more functions which are dangerous if you found missing any inside the vulnerablefunctions python file.<br>
+</p>
 
 ## Setup
 
-Some fun facts about the setup of this project include:
+PHP, Python3
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+If you don't have any of these please download, then,
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+1) ```php -S localhost:80```<br>
+2) Browse to localhost<br>
+3) Type the foldername which contains the PHP files
+
+**Note: Please try not to change the main file name 'scscanner.py', otherwise we will have to change the name in upload.php file.**
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/agrawalsmart7/scodescanner/issues/new) or [ask me on Twitter](https://twitter.com/agrawalsmart7).
 
 Thanks for reading!
