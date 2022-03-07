@@ -17,7 +17,7 @@ ScodeScanner only supports PHP for now, but soon it will start supporting other 
 
 ### Scanned 1k+ files
 
-I scanned 1k+ files from different php open source code and it was observed that SQL Injection was the most of the common vulnerability that was identified, the second one is Cross-Site Scripting issues, where developers free used user untrusted input inside the code.
+I scanned 1k+ files from different php open source code and it was observed that SQL Injection was the most of the common vulnerability that was identified, the second one is Cross-Site Scripting issues, where developers freely used user untrusted input inside the code. Also this tool identified some open redirect issues and some SSRF and some Unserialize vulnerabilities where the user input was used directly inside the function.
 
 Here is the sample data - 
 
