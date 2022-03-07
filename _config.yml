@@ -20,9 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          1.0
+version:          2.0.0
 
 github:
   repo:           https://github.com/agrawalsmart7/scodescanner
-
-theme: jekyll-theme-time-machine
