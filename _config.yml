@@ -24,3 +24,5 @@ version:          1.0
 
 github:
   repo:           https://github.com/agrawalsmart7/scodescanner
+
+theme: jekyll-theme-time-machine
