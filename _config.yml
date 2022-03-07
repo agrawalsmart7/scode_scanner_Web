@@ -9,8 +9,8 @@ permalink:        pretty
 title:            SCodeScanner
 tagline:          'A python based Tool'
 description:      'Finding Vulnerability with SCodeScanner. <br>Made by <a href="https://twitter.com/agrawalsmart7" target="_blank">@agrawalsmart7</a>.'
-url:              http://scodescanner.info
-baseurl:          http://scodescanner.info/
+url:              https://scodescanner.info
+baseurl:          https://scodescanner.info/
 
 author:
   name:           'Utkarsh Agrawal'
