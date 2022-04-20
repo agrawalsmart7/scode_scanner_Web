@@ -17,10 +17,10 @@ author:
   url:            https://twitter.com/agrawalsmart7
   email:          agrawalsmart7@gmail.com
 
-paginate:         5
+paginate:         10
 
 # Custom vars
-version:          2.0.0
+version:          2.1.0
 
 github:
   repo:           https://github.com/agrawalsmart7/scodescanner
