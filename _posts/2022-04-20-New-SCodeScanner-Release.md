@@ -33,6 +33,7 @@ ScodeScanner only supports PHP for now, but soon it will start supporting other 
 4) Added --check flag - Which will double check the results 
 
   **Note**: This flag might miss the match where if one file imported variables from other file. So use accordingly.
+
 5) Resolved Bugs
 
 6) Edited Rules
