@@ -27,11 +27,14 @@ ScodeScanner only supports PHP for now, but soon it will start supporting other 
 
   ```
 2) Added Jira Integration - Where you can directly send the file to Jira Instance
+
 3) Added Slack Integration - Where you can send file to slack channel
+
 4) Added --check flag - Which will double check the results 
 
   **Note**: This flag might miss the match where if one file imported variables from other file. So use accordingly.
 5) Resolved Bugs
+
 6) Edited Rules
 
 
