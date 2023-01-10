@@ -12,10 +12,15 @@ SCode Scanner now also supports YAML for kubernetes security misconfiguration. U
 ### New Improved Features?
 
 1) Supported PHP Language
+
 2) Supported YAML Language
+
 3) Pass results to bug tracking services like Jira also Slack (Sending files to group to multiple people at once).
+
 4) Gives results in JSON format, which can easily be used to any other program.
+
 5) Works with Rules. We only need to create some rules which the target rule is not present in php/yaml directory.
+
 6) Rules that can scan advance patterns
 
 
