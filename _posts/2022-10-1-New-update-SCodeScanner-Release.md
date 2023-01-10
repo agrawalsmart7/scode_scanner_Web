@@ -22,7 +22,9 @@ SCode Scanner now also supports YAML for kubernetes security misconfiguration. U
 ### How to run?
 
 1) Download the repository
+
 2) run pip install -r requirements.txt
+
 3) python scscanner.py yaml --help
 
 ### Addional Information
